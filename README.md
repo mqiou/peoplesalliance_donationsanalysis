@@ -2,9 +2,9 @@
 
 ## Project Background 
 
-Durham People's Alliance (Durham PA) is a grassroots political organization that has been organizing to fight for a more progressive society at the city and state level for Durham, North Carolina. Durham PA is a member-based organization that hosts events, educates voters, and organizes members to take action on local issues, and it has relied almost solely on grassroots donations for financial support.
+Durham People's Alliance (Durham PA) is a grassroots political organization in North Carolina that has been organizing to fight for a more progressive world. Durham PA is a member-based organization that hosts events, educates voters, and organizes members to take action on local issues, and it has **relied almost solely on grassroots donations for financial support**.
 
-This project was conducted to help Durham PA better understand its donation revenue history from 2004-2025*, by drawing insights about patterns in donor behavior and revenue drivers. The insights are presented to the Board Members and Staff to help them make decisions about their future fundraising strategy and budget planning, and to recommend areas of improving their data infrastructure.
+This project was conducted to help Durham PA **better understand its donation revenue history from 2004-2025***, by drawing insights about patterns in donor behavior and revenue drivers. The data is pulled from Durham PA's CRM platform, **NationBuilder**. The insights are presented to the Board Members and Staff to help them make decisions about their future fundraising and outreach strategy.
 
 *Note: There is only data for half of 2025, so 2025 is excluded from yearly analysis. 2025 is included where relevant to show performance of the new annual membership program.
 
